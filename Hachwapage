@@ -1,0 +1,40 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hachwa Page</title>
+  <style>
+    body {
+      background-color: #f1f1f1;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    
+    h1 {
+      font-size: 60px;
+      color: #333333;
+      margin-top: 100px;
+    }
+    
+    h2 {
+      font-size: 40px;
+      color: #666666;
+      margin-top: 50px;
+    }
+    
+    p {
+      font-size: 20px;
+      color: #999999;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hachwa</h1>
+  <h2>Subscribe for more Hachwa</h2>
+  <p>NFT</p>
+  <p>HachwaCoin coming soon</p>
+  <p>nibrkCoin joining market this July</p>
+</body>
+</html>
