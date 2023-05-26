@@ -1,2 +1,0 @@
-# Hachwa
-Hachwa
